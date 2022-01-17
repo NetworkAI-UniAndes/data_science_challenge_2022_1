@@ -40,3 +40,7 @@ Hints
 - Preprocessing can be the huge difference between an accurate model or not. 
 - The training dataset is not balanced, if you know methods to balance the dataset, you'll get way better results.
 
+Application form 
+-------
+Formulario de inscripción:
+https://forms.gle/ukxQnXPpmGjwSgfr6
