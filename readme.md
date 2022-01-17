@@ -37,4 +37,6 @@ Hints
 - We have computed result with accuracies higher than 93%. You can aim to get results with this score. 
 - Normalize all the images before parsing into your model, images can have different shapes.
 - Use the three color channels to parse info into your model.
+- Preprocessing can be the huge difference between an accurate model or not. 
+- The training dataset is not balanced, if you know methods to balance the dataset, you'll get way better results.
 
